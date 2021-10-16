@@ -1,0 +1,23 @@
+commit e3888fb528065dde054e03242f70523c53efc02b (HEAD -> master)
+Author: Liubov Matsiuk <mathuk_luba@ukr.net>
+Date:   Sat Oct 16 23:38:07 2021 +0300
+
+    add gitHistory
+
+commit e3ca5ba0104a3636c8d91f963658b05ae773f13c
+Author: Liubov Matsiuk <mathuk_luba@ukr.net>
+Date:   Sat Oct 16 23:35:28 2021 +0300
+
+    second change in file Readme.txt
+
+commit f9e4da4ebcb2da9e0a295465c938a4e823421caa
+Author: Liubov Matsiuk <mathuk_luba@ukr.net>
+Date:   Sat Oct 16 23:30:58 2021 +0300
+
+    first change in file Readme.txt
+
+commit 8ceab4c49f269aecd5a9ae7bb117a717b81cc355
+Author: Liubov Matsiuk <mathuk_luba@ukr.net>
+Date:   Sat Oct 16 23:20:30 2021 +0300
+
+    add Readme.txt
